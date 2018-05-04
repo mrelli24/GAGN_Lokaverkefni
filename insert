@@ -1,0 +1,64 @@
+insert into 2408012210_hopverk_Gagn1.flytjandi
+		(nofn,faedingadagur,danardagur,lysing)
+values
+	("Neil young","12.11.1945","Nei","Neil Percival Young, OC OM[3][4] (born November 12, 1945), is a Canadian singer-songwriter, musician, producer, director and screenwriter"),
+    ("The smiths","1982","1987","The Smiths were an English rock band formed in Manchester in 1982. The band consisted of vocalist Morrissey, guitarist Johnny Marr, bassist Andy Rourke and drummer Mike Joyce."),
+	("Nirvana","1987","1994","Nirvana was an American rock band formed by singer and guitarist Kurt Cobain and bassist Krist Novoselic in Aberdeen, Washington, in 1987"),
+    ("The Cure","1976","Nei","The Cure are an English rock band formed in Crawley, West Sussex in 1976."),
+    ("David Bowie","8.1.1947","10.1.2016","David Robert Jones (8 January 1947 – 10 January 2016), known professionally as David Bowie (/ˈboʊi/),[2] was an English singer-songwriter and actor."),
+    ("George Harrison","25.2.1943","29,11,2001","George Harrison[nb 1] MBE (25 February 1943 – 29 November 2001) was an English guitarist, singer-songwriter, and producer who achieved international fame as the lead guitarist of the Beatles"),
+	("Rod stewart","10.1.1945","Nei","Sir Roderick David Stewart, CBE (born 10 January 1945)[1] is a British rock singer and songwriter."),
+	("Bob Dylan","24.5.1941","Nei","Bob Dylan (born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter, author, and painter who has been an influential figure in popular music and culture for more than five decades."),
+	("Van Morrison","31.8.1945","Nei","Sir George Ivan Morrison OBE (born 31 August 1945) is a Northern Irish singer-songwriter, instrumentalist and record producer. In 2016, he was knighted for his musical achievements and his services to tourism and charitable causes in Northern Ireland"),
+	("Freddie Mercury","5.9.1946","24.11.1991","Frederick Mercury (born Farrokh Bulsara; 5 September 1946 – 24 November 1991) was a British singer, songwriter and record producer, best known as the lead vocalist of the rock band Queen.");
+
+insert into 2408012210_hopverk_Gagn1.lag
+		(flytjandi,nafn_lags,lengd,texti,utgafudagur)
+        
+values
+(
+"Neil young","Alabama","4:03","
+[Verse 1]
+Oh, Alabama
+The devil fools
+With the best laid plan
+Swing low, Alabama
+You got the spare change
+You got to feel strange
+And now, the moment
+Is all that it meant"),
+
+(
+"Neil Young","Out on the weekend","4:39","Think I'll pack it in
+and buy a pick-up
+Take it down to L.A.
+Find a place to call my own
+and try to fix up.
+Start a brand new day."),
+
+(
+"Neil Young","Heart of Gold","3:16","I want to live
+I want to give
+I've been a miner for a heart of gold
+It's these expressions
+I never give
+That keep me searching for a heart of gold","1.2.1972"),
+
+(
+"The Smiths","Bigmouth strikes again","3:30","[Verse]
+Sweetness, sweetness I was only joking, when I said
+I'd like to smash every tooth in your head
+Oh... sweetness, sweetness, I was only joking when I said
+By rights you should be bludgeoned in your bed"),
+
+(
+"The Smiths","Frankly mr Shankly","2:20","[Chorus]
+Frankly, Mr. Shankly, this position I've held
+It pays my way, and it corrodes my soul","16.6.1986"),
+
+("The Smiths","How Soon is Now","6:48","Refrain]
+I am the son and the heir
+Of a shyness that is criminally vulgar
+I am the son and heir of nothing in particular","16.6.1986"),
+
+("Nirvana","Smells like teen spirit","","",""),        
