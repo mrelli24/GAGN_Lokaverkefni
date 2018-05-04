@@ -1,0 +1,220 @@
+insert into 2408012210_hopverk_Gagn1.flytjandi
+		(flytjandi_ID,nofn,faedingadagur,danardagur,lysing)
+values
+	("1","Neil young","12.11.1945","Nei","Neil Percival Young, OC OM[3][4] (born November 12, 1945), is a Canadian singer-songwriter, musician, producer, director and screenwriter"),
+    ("2","The smiths","1982","1987","The Smiths were an English rock band formed in Manchester in 1982. The band consisted of vocalist Morrissey, guitarist Johnny Marr, bassist Andy Rourke and drummer Mike Joyce."),
+	("3","Nirvana","1987","1994","Nirvana was an American rock band formed by singer and guitarist Kurt Cobain and bassist Krist Novoselic in Aberdeen, Washington, in 1987"),
+    ("4","The Cure","1976","Nei","The Cure are an English rock band formed in Crawley, West Sussex in 1976."),
+    ("5","David Bowie","8.1.1947","10.1.2016","David Robert Jones (8 January 1947 – 10 January 2016), known professionally as David Bowie (/ˈboʊi/),[2] was an English singer-songwriter and actor."),
+    ("6","George Harrison","25.2.1943","29,11,2001","George Harrison[nb 1] MBE (25 February 1943 – 29 November 2001) was an English guitarist, singer-songwriter, and producer who achieved international fame as the lead guitarist of the Beatles"),
+	("7","Rod stewart","10.1.1945","Nei","Sir Roderick David Stewart, CBE (born 10 January 1945)[1] is a British rock singer and songwriter."),
+	("8","Bob Dylan","24.5.1941","Nei","Bob Dylan (born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter, author, and painter who has been an influential figure in popular music and culture for more than five decades."),
+	("9","Van Morrison","31.8.1945","Nei","Sir George Ivan Morrison OBE (born 31 August 1945) is a Northern Irish singer-songwriter, instrumentalist and record producer. In 2016, he was knighted for his musical achievements and his services to tourism and charitable causes in Northern Ireland"),
+	("10","Freddie Mercury","5.9.1946","24.11.1991","Frederick Mercury (born Farrokh Bulsara; 5 September 1946 – 24 November 1991) was a British singer, songwriter and record producer, best known as the lead vocalist of the rock band Queen.");
+
+insert into 2408012210_hopverk_Gagn1.lag
+		(lag_ID,flytjandi,nafn_lags,lengd,texti,utgafudagur)
+        
+values
+(
+"1","Neil young","Alabama","4:03","
+[Verse 1]
+Oh, Alabama
+The devil fools
+With the best laid plan
+Swing low, Alabama
+You got the spare change
+You got to feel strange
+And now, the moment
+Is all that it meant"),
+
+(
+"2","Neil Young","Out on the weekend","4:39","Think I'll pack it in
+and buy a pick-up
+Take it down to L.A.
+Find a place to call my own
+and try to fix up.
+Start a brand new day."),
+
+(
+"3","Neil Young","Heart of Gold","3:16","I want to live
+I want to give
+I've been a miner for a heart of gold
+It's these expressions
+I never give
+That keep me searching for a heart of gold","1.2.1972"),
+
+(
+"4","The Smiths","Bigmouth strikes again","3:30","[Verse]
+Sweetness, sweetness I was only joking, when I said
+I'd like to smash every tooth in your head
+Oh... sweetness, sweetness, I was only joking when I said
+By rights you should be bludgeoned in your bed"),
+
+(
+"5","The Smiths","Frankly mr Shankly","2:20","[Chorus]
+Frankly, Mr. Shankly, this position I've held
+It pays my way, and it corrodes my soul","16.6.1986"),
+
+("6","The Smiths","How Soon is Now","6:48","Refrain]
+I am the son and the heir
+Of a shyness that is criminally vulgar
+I am the son and heir of nothing in particular","16.6.1986"),
+
+("7","Nirvana","Smells like teen spirit","4:37","[Verse 1]
+Load up on guns, bring your friends
+It's fun to lose and to pretend
+She's overboard and self-assured
+Oh no I know, a dirty word","11.9.1991"),      
+
+("8","Nirvana","In Bloom","4:45","[Verse 1]
+Sell the kids for food
+Weather changes moods
+Spring is here again
+Reproductive glands","11.9.1991"),  
+
+("9","Nirvana","Heart Shaped Box","4:45","[Verse 1]
+She eyes me like a Pisces when I am weak
+I've been locked inside your heart-shaped box for weeks
+I've been drawn into your magnet tar pit trap
+I wish I could eat your cancer when you turn back
+","11.9.1991"),
+
+("10","The Cure","The Lovecats","4:45","[Verse 1]
+We move like cagey tigers
+We couldn't get closer than this
+The way we walk
+The way we talk
+The way we stalk
+The way we kiss
+We slip through the streets
+While everyone sleeps
+Getting bigger and sleeker
+And wider and brighter
+We bite and scratch and scream all night
+Let's go and
+Throw all the songs we know
+","12.9.1995"),
+
+("11","The Cure","Friday im in love","4:45","null","12.9.1995"),
+
+("12","The Cure","The Forest","4:45","null","12.9.1995"),
+
+("13","David Bowie","Life on Mars?","4:42","null","06.5.1984"),
+
+("14","David Bowie","Johnn im only dancing","4:42","null","06.5.1984"),
+
+("15","David Bowie","Heroes","4:42","null","06.5.1981"),
+
+("16","Crackerbox Palace","3:46","null","11.06.1976"),
+
+("17","Got my mind set on you","4:35","null","11.06.1976"),
+
+("18","What is life?","5:40","null","11.06.1976"),
+
+("19","The Killing of Georgie","6:40","null","08.08.1975"),
+
+("20","Sailing","5:30","null","9.04.1978"),
+
+("21","The first cut is the deepest","6:20","null","09.04.1978"),
+
+("22","Hurricane","7:19","null","16.07.1967"),
+
+("23","Like a rolling stone","7:30","null","16.07.1967"),
+
+("24","Lay Lady Lay","7:20","null","16.07.1967"),
+
+("25","Brown eyed girl","3:03","null","16.09.1968"),
+
+("26","Into the mystic","4:01","null","16.09.1968"),
+
+("27","Moondance","3:30","null","16.09.1968"),
+
+("28","Barcelona","6:00","null","16.9.1986"),
+
+("29","living on my own","4:31","null","16.9.1986"),
+
+("30","The Great Pretender","4:32","null","16.9.1986");
+
+
+insert into 2408012210_hopverk_Gagn1.tegund
+		(tegund_ID,tonl_tegund,flytjandi)
+values
+
+("1","Indie Rock","The Smiths"),
+("2","Rock","George Harrison"),
+("3","Country","Neil Young"),
+("4","Folk","Bob Dylan"),
+("5","Grunge","Nirvana");
+
+
+
+insert into 2408012210_hopverk_Gagn1.utgefandi
+		(utgefandi_ID,nafn,netfang,stadsetning)
+values
+
+("1","Big Records","biggirec@gmail.com","Los Angeles"),
+("2","Cameo-Kid","CommoKid@gmail.com","Austur Skaftafellssýsla"),
+("3","Caff Records","CaffRecords@gmail.com","London"),
+("4","Cam","Cam@gmail.com","New York"),
+("5","Candid Records","Candid@gmail.com","París");
+
+
+
+insert into 2408012210_hopverk_Gagn1.Notandi
+		(notandi_ID,nafn,faedingardagur,netfang,heimili)
+        
+values
+
+("1","Klemens","30.1.00","Klemmi@gmail.com","Reykjavík"),
+("2","Bóbó","1.6.92","bobo@gmail.com","Hafnarfjörður"),
+("3","Jens","4.6.60","jens@internet.is","Akureyri"),
+("4","Babbi","7.2.78","Babbi@yahoo.com","Reykjavík"),
+("5","Njálgur","1.9.95","Njalgur@gmail.com","Reykjavík"),
+("6","Halldóra","1.8.01","Hdora@gmail.com","Ísafjörður"),
+("7","Jón","9.3.09","jon@gmail.com","Reykjavík");
+
+
+
+insert into 2408012210_hopverk_Gagn1.lagaval
+	(lag_ID,Heiti,Stofndagur,notandi_ID)
+    
+values
+
+("2","Out on the weekend","1982","null","1"),
+("19","The Killing of Georgie","null","1"),
+("19","The Killing of Georgie","null","1"),
+("2","Out on the weekend","1982","null","1"),
+("25","Brown eyed girl","null","1",
+("2","Out on the weekend","1982","null","2"),   
+("2","Out on the weekend","1982","null","2"),
+("19","The Killing of Georgie","null","2"),
+("2","Out on the weekend","1982","null","2"),
+("2","Out on the weekend","1982","null","2"),
+("16","Crackerbox palace","null","3"),
+("2","Out on the weekend","1982","null","3"),
+("25","Brown eyed girl","null","3"),
+("16","Crackerbox palace","null","3"),
+("2","Out on the weekend","1982","null","3"),
+("19","The Killing of Georgie","null","4"),
+("2","Out on the weekend","1982","null","4"),
+("2","Out on the weekend","1982","null","4"),
+("16","Crackerbox palace","null","null","4"),
+("16","Crackerbox palace","null","null","4"),
+("2","Out on the weekend","1982","null","5"),
+("2","Out on the weekend","1982","null","5"),
+("25","Brown eyed girl","null","5"),
+("2","Out on the weekend","1982","null","5"),
+("19","The Killing of Georgie","null","5"),
+("19","The Killing of Georgie","null","6"),
+("2","Out on the weekend","1982","null","6"),
+("2","Out on the weekend","1982","null","6"),
+("16","Crackerbox palace","null","6"),
+("2","Out on the weekend","1982","null","6"),
+("25","Brown eyed girl","null","7"),
+("5","Crackerbox palace","null","7"),
+("2","Out on the weekend","1982","null","7"),
+("2","Out on the weekend","1982","null","7"),
+("25","Brown eyed girl","null","7");
+
+
